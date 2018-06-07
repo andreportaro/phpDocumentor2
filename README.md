@@ -75,8 +75,10 @@ contain spaces. This is a requirement imposed by an external library (libxml)_
 ### Using the PHAR
 
 1. Download the phar file from https://github.com/phpDocumentor/phpDocumentor2/releases
-2. ???
-3. Profit!
+2. Move phar to your local bin:
+`mv phpDocumentor.phar /usr/local/bin/phpdocumentor
+`
+3. Use it by 
 
 ### Via docker
 
